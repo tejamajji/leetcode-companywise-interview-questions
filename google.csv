@@ -12,7 +12,7 @@
 "11","Container With Most Water","/problems/container-with-most-water","N","54.3%","Medium","4.51408%;","Y"
 "12","Integer to Roman","/problems/integer-to-roman","N","61.5%","Medium","8.54213%;","Y"
 "13","Roman to Integer","/problems/roman-to-integer","N","58.2%","Easy","26.5603%;","Y"
-"14","Longest Common Prefix","/problems/longest-common-prefix","N","40.8%","Easy","9.08803%;",""
+"14","Longest Common Prefix","/problems/longest-common-prefix","N","40.8%","Easy","9.08803%;","Y"
 "15","3Sum","/problems/3sum","N","32.3%","Medium","1.28795%;",""
 "16","3Sum Closest","/problems/3sum-closest","N","46.1%","Medium","2.77288%;",""
 "17","Letter Combinations of a Phone Number","/problems/letter-combinations-of-a-phone-number","N","55.7%","Medium","6.68347%;",""
